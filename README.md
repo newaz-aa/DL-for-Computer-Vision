@@ -7,3 +7,6 @@ Topics that are covered in each notebook are as follows -
 4. Working on real-world datasets -- Data augmentation
 5. Transfer Learning 
 6. U-Net
+
+
+Recorded lecture - https://youtu.be/LgJYH21MPmc
