@@ -1,13 +1,28 @@
-# CNN
-These notebooks will cover Convolutional Neural Network design from basic to advanced using TensorFlow.
-Topics that are covered in each notebook are as follows - 
-1. Basic CNN architecture design -- Dropout Regularization -- Batch Normalization
-2. CNN with Callbacks
-3. Using Pre-trained CNN architecture for prediction
-4. Working on real-world datasets -- Data augmentation - (how to prepare data in Kaggle)
-5. Transfer Learning
-6. Hand-drawn Electric circuit Schematic Components prediction - (how to prepare data in Google Colab)
-7. U-Net
+
+# Introduction to Computer Vision with TensorFlow
+
+The coursework provides an introductory overview of building deep learning models using TensorFlow for Computer Vision tasks.
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14.0-orange?logo=tensorflow)](https://www.tensorflow.org/)
 
 
-Recorded lecture - https://youtu.be/LgJYH21MPmc
+
+## Outline
+
+These notebooks cover CNN model design from basic to advanced using TensorFlow. Topics that are covered in each notebook are as follows -
+
+* Basic CNN architecture design -- Dropout Regularization -- Batch Normalization
+* CNN with Callbacks
+* Using Pre-trained CNN architecture for prediction
+* Working on real-world datasets -- Data augmentation - how to prepare data in Kaggle
+* Transfer Learning
+* Hand-drawn Electric circuit Schematic Components prediction - how to prepare data in Google Colab
+* Object Detection
+* U-Net
+
+For details: https://www.asifnewaz.com/teaching/image-processing-and-computer-vision-lab
+
+## Recorded lectures
+
+[![YouTube Video](https://img.shields.io/badge/YouTube_Video-Creating-CNN-models-brightgreen)](https://www.youtube.com/watch?v=LgJYH21MPmc&ab_channel=TheGrayWolf)
+
