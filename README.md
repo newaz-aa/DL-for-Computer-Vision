@@ -24,5 +24,5 @@ For details: https://www.asifnewaz.com/teaching/image-processing-and-computer-vi
 
 ## Recorded lectures
 
-[![YouTube Video](https://img.shields.io/badge/YouTube_Video-Creating-CNN-models-brightgreen)](https://www.youtube.com/watch?v=LgJYH21MPmc&ab_channel=TheGrayWolf)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red))](https://www.youtube.com/watch?v=LgJYH21MPmc&ab_channel=TheGrayWolf)
 
