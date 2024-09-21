@@ -21,7 +21,7 @@ These notebooks cover CNN model design from basic to advanced using TensorFlow. 
 * Object Detection
 * U-Net
 
-For details: https://www.asifnewaz.com/teaching/image-processing-and-computer-vision-lab
+For details: (https://www.asifnewaz.com/teaching/dl-for-computer-vision)
 
 ## Recorded lectures
 
