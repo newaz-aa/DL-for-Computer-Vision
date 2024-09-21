@@ -17,6 +17,7 @@ These notebooks cover CNN model design from basic to advanced using TensorFlow. 
 * Working on real-world datasets -- Data augmentation - how to prepare data in Kaggle
 * Transfer Learning
 * Hand-drawn Electric circuit Schematic Components prediction - how to prepare data in Google Colab
+* Practical example: Malaria parasite detection from blood smears using CNNs
 * Object Detection
 * U-Net
 
