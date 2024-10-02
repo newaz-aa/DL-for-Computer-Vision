@@ -1,5 +1,5 @@
 
-# Introduction to Computer Vision with TensorFlow
+# DL for Computer Vision with TensorFlow
 
 The coursework provides an introductory overview of building deep learning models using TensorFlow for Computer Vision tasks.
 
